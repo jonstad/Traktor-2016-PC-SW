@@ -1,0 +1,2 @@
+Active Button Color;Not Active Button Color;
+WindowsFormsApplication1.Settings+ColorTemplate

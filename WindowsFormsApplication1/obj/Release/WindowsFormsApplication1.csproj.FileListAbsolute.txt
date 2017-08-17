@@ -1,0 +1,12 @@
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\LBIndustrialCtrls.dll
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

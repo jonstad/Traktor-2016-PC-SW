@@ -1,0 +1,16 @@
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\bin\Release\Traktor.exe
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\bin\Release\Traktor.pdb
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\bin\Release\LBIndustrialCtrls.dll
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\bin\Release\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\Traktor2012.csproj.ResolveComReference.cache
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.ColorForm.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.FlashArrow.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.MyButton.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.TraktorG.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\Traktor2012.csproj.GenerateResource.Cache
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\Traktor.exe
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Release\Traktor.pdb

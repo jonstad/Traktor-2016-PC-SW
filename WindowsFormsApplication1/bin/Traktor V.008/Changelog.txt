@@ -1,0 +1,14 @@
+V007
+Max slider value can be set in color setting :)
+Wheel pressure will be set to 0 if pressure goes over 100Bar in Anti-Spin mode.
+Anti-Spin mode is only possible to start if pressure is under 100Bar
+
+History graphs added for wheel and pump pressure
+Can be enabled/disabled in view menu
+
+Value to control wheel pressure can be done with trackbar and textbox
+
+V006
+Max slider value =35
+Wheel pressure will be set to 0 if it exceds 100Bar
+Labels added to identify Front and Back collapse buttons

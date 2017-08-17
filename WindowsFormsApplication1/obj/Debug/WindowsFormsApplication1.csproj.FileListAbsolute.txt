@@ -1,0 +1,17 @@
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LBIndustrialCtrls.dll
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\MyDesigns\MyC\Socket\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ColorForm.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

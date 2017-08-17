@@ -1,0 +1,63 @@
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\bin\Debug\LBIndustrialCtrls.dll
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\bin\Debug\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\Traktor2012.csproj.ResolveComReference.cache
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ColorForm.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\Traktor2012.csproj.GenerateResource.Cache
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\bin\Debug\Traktor.exe
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\bin\Debug\Traktor.pdb
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\Traktor.exe
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\Traktor.pdb
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MyButton.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TraktorG.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FlashArrow.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\Traktor2012.csproj.ResolveComReference.cache
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\Traktor.exe
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\Traktor.pdb
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\bin\Debug\Traktor.exe
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\bin\Debug\Traktor.pdb
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\bin\Debug\LBIndustrialCtrls.dll
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\bin\Debug\Interop.AVRDEBUGGERLib.dll
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ColorForm.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FlashArrow.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MyButton.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TraktorG.resources
+C:\MyDesigns\MyC\Traktor\Traktor 2012 Crashed\WindowsFormsApplication1\obj\Debug\Traktor2012.csproj.GenerateResource.Cache
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor2012.csproj.ResolveComReference.cache
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor.exe
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor.pdb
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\bin\Debug\Traktor.exe
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\bin\Debug\Traktor.pdb
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\bin\Debug\LBIndustrialCtrls.dll
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor2012.csprojResolveAssemblyReference.cache
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ColorForm.resources
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FlashArrow.resources
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MyButton.resources
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TraktorG.resources
+C:\Users\tej\Dropbox\Oceaneering\MyDesigns\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor2012.csproj.GenerateResource.Cache
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor2012.csproj.ResolveComReference.cache
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor.exe
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor.pdb
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\bin\Debug\Traktor.exe
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\bin\Debug\Traktor.pdb
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\bin\Debug\LBIndustrialCtrls.dll
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor2012.csprojResolveAssemblyReference.cache
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ColorForm.resources
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FlashArrow.resources
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MyButton.resources
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TraktorG.resources
+C:\Users\tejonstad\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor2012.csproj.GenerateResource.Cache
+C:\Users\tej\OneDrive\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor2012.csproj.ResolveComReference.cache
+C:\Users\tej\OneDrive\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor.exe
+C:\Users\tej\OneDrive\Dropbox\Oceaneering\MyDesigns2\Traktor 2016 PC SW\WindowsFormsApplication1\obj\Debug\Traktor.pdb
